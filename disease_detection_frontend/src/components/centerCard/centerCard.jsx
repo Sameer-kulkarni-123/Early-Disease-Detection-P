@@ -1,6 +1,6 @@
 import './centerCard.css'
 import TextInput from '../textInput/textInputWithPara'
-import Button from '../button/Button'
+import Button from '../button/button1.jsx'
 import ButtonAppearContextProvider from '../../context/buttonAppearContext'
 // import { buttonContext } from '../../context/buttonAppearContext'
 import { symptomContext } from '../../context/symptomContext'

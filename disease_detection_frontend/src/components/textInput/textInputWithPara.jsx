@@ -2,7 +2,7 @@ import { useContext, useState } from "react"
 import './textInputWithPara.css'
 // import {AppContext} from '../../App.jsx'
 import { symptomContext } from "../../context/symptomContext.jsx";
-import Button from "../button/Button.jsx";
+// import Button from "../button/button1.jsx";
 import { buttonContext } from "../../context/buttonAppearContext.jsx";
 
 
