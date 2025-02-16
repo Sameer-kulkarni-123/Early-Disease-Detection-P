@@ -1,0 +1,11 @@
+*{
+  background-color: rgb(29, 27, 27);
+}
+
+.main-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}

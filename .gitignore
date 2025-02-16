@@ -1,0 +1,8 @@
+venv/
+.env
+
+.vscode
+
+dataset/
+
+model.ipynb

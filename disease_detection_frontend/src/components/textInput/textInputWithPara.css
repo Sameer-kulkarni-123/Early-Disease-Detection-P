@@ -1,0 +1,61 @@
+.para{
+  color: white;
+  background-color: transparent;
+  position: absolute;
+  top: 080px;
+  font-size: 1.5rem;
+}
+
+.input {
+  color: white;
+  background-color: transparent;
+  border-color: rgba(140, 238, 255, 0.663);
+  border-radius: 12px;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  font-family: monospace;
+  font-weight: 500;
+  max-width: 200px;
+  position: absolute;
+  top: 210px;
+}
+
+.ul1 {
+  color: white;
+  /* background-color: transparent; */
+  background-color: rgb(45, 42, 42);
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: scroll;
+  max-height: 100px;
+  min-width: 228px;
+  overflow-x: hidden;
+  border: 2px solid rgba(140, 238, 255, 0.663);
+  border-radius: 12px;
+  padding: 5px;
+  scrollbar-color: rgba(255, 255, 255, 0.3) transparent;
+  position: absolute;
+  top: 265px;
+  z-index: 2px;
+}
+
+
+.li1 {
+  /* background-color: transparent; */
+  background-color: rgb(45, 42, 42);
+  margin: 2px;
+  z-index: 2;
+
+}
+
+.li1:hover {
+  cursor: pointer;
+  opacity: 70%;
+}
+
+
+.li2 {
+  background-color: transparent;
+}
+
